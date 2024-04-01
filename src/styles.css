@@ -82,17 +82,12 @@ body {
   margin-bottom: 10px;
 }
 .game {
-  display: flex;
-  flex-direction: row;
-}
-
-.game-info {
-  margin-left: 20px;
-}
-
-.align-content-center {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.game-info {
+  margin-left: 20px;
 }
